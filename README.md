@@ -96,7 +96,7 @@ The list is separated into Free and Paid and broken into subsections based on lo
 - [Reuters News API](https://reutersagency.com/content-delivery-platforms/api-integrations/) - Low latency news feed from Reuters
 - [webz.io](https://webz.io/solutions/media-monitoring) - webz.io provides API with real-time information from thousnads of news sites, blogs, and discussion forums.
 - [Mediastack](https://mediastack.com) - JSON API delivering worldwide news, headlines and blog articles in real-time
-- [Data.gov Data Catalog](https://data.gov/](https://catalog.data.gov/) - Data Catalog with 312,713 datasets on Local Government, Climate, Older Adults, Energy and more. Can browse by Organization- includes CDC Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System
+- [Data.gov Data Catalog](https://catalog.data.gov/) - Data Catalog with 312,713 datasets on Local Government, Climate, Older Adults, Energy and more. Can browse by Organization- includes CDC Nutrition, Physical Activity, and Obesity - Behavioral Risk Factor Surveillance System
 
 
 ### Sports
